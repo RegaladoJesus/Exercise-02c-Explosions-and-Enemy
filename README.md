@@ -16,7 +16,7 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 None
 
 ## Future Development
-None
+Exercise-2d
 
 ## Created by
 Jesus Regalado
